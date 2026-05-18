@@ -204,7 +204,7 @@ On first run, macOS will prompt for:
 
 ## Support
 
-- GitHub: https://github.com/sm-moshi/apple-mail-mcp
+- GitHub: https://github.com/yaelmoshi/apple-mail-mcp
 EOF
 
 # Step 8: Create the MCPB package
